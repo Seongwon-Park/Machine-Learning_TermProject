@@ -7,7 +7,9 @@ And voting classifier to predict customer churn probability.
       
 ## Part 2 : Selecting a country to invest in renewable energy facilities using clustering
 
-* Team Members : Park Seong Won, Choi Jun Heon, Kim Ji Hyeon
+
+## Team members
+* Park Seong Won, Choi Jun Heon, Kim Ji Hyeon
 
 
 ## Schedule
