@@ -1,10 +1,10 @@
 # Machine_Learning_TermProject
 
-* Part 1 : Customer churn prediction using classification Algorithm
- - Tele customer churn prediction using GaussianNB, Decision Tree, and Logistic Regression model 
-      + Voting Classifier to predict customer churn probability
+# Part 1 : Customer churn prediction using classification Algorithm
+  - Tele customer churn prediction using GaussianNB, Decision Tree, and Logistic Regression model.
+      plus, Voting Classifier to predict customer churn probability
       
-* Part 2 : Selecting a country to invest in renewable energy facilities using clustering
+# Part 2 : Selecting a country to invest in renewable energy facilities using clustering
 
 * Team Members : Park Seong Won, Choi Jun Heon, Kim Ji Hyeon
 
