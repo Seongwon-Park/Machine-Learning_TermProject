@@ -1,5 +1,5 @@
 # Machine Learning TermProject
-Gachon University 2020, Fall semester
+Gachon University 2020 Fall semester
 
 ## Part 1 : Customer churn prediction using classification Algorithm
 
