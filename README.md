@@ -2,8 +2,8 @@
 
 ## Part 1 : Customer churn prediction using classification Algorithm
 
-Tele customer churn prediction using GaussianNB, Decision Tree, and Logistic Regression model.
-And voting classifier to predict customer churn probability.
+* Tele customer churn prediction using GaussianNB, Decision Tree, and Logistic Regression model.
+* Voting classifier to predict customer churn probability.
       
 ## Part 2 : Selecting a country to invest in renewable energy facilities using clustering
 
