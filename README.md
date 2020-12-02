@@ -15,4 +15,4 @@ And voting classifier to predict customer churn probability.
 ## Schedule
 
 * Proposal Presentation(2020.11.10): Subject selection and case study
-* Final Presentation(2020.12.2): [PPTX](https://drive.google.com/file/d/1PA1PMY5bneU5rwSKzxIxeWrfoUW2vExa/view?usp=sharing). Data analysis and business use
+* Final Presentation(2020.12.2): [PPTX](https://drive.google.com/file/d/1PA1PMY5bneU5rwSKzxIxeWrfoUW2vExa/view?usp=sharing) Data analysis and business use
