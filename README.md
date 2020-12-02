@@ -8,7 +8,7 @@ Gachon University 2020 Fall semester
       
 ## Part 2 : Selecting a country to invest in renewable energy facilities using clustering
 
-* Selected as a country for investment in renewable energy facilities using K-Means, DBSCAN, and EM algorithms.
+* Selected as a country for investment in renewable energy facilities using K-Means, DBSCAN, and EM algorithms with HDI.
 
 ## Team members
 * Park Seong Won, Choi Jun Heon, Kim Ji Hyeon
